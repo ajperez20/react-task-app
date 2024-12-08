@@ -1,5 +1,6 @@
 {
   "name": "react-tasks-app",
+  "homepage": "https://ajperez20.github.io/react-task-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
